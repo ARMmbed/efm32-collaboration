@@ -1,0 +1,18 @@
+[submodule "linked/cmsis-core-efm32gg"]
+	path = linked/cmsis-core-efm32gg
+	url = git@github.com:ARMmbed/cmsis-core-efm32gg
+[submodule "linked/cmsis-core-silabs"]
+	path = linked/cmsis-core-silabs
+	url = git@github.com:ARMmbed/cmsis-core-silabs
+[submodule "linked/mbed-hal-efm32gg"]
+	path = linked/mbed-hal-efm32gg
+	url = git@github.com:ARMmbed/mbed-hal-efm32gg
+[submodule "linked/mbed-hal-silabs"]
+	path = linked/mbed-hal-silabs
+	url = git@github.com:ARMmbed/mbed-hal-silabs
+[submodule "uvisor"]
+	path = uvisor
+	url = git@github.com:akselsm/uvisor.git
+[submodule "uvisor-helloworld"]
+	path = uvisor-helloworld
+	url = git@github.com:akselsm/uvisor-helloworld.git
